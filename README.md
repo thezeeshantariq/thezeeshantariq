@@ -1,3 +1,5 @@
+![github-cover](https://github.com/thezeeshantariq/thezeeshantariq/assets/27205496/5356d414-a518-43ca-baee-de8bd82b267e)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
