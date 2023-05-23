@@ -1,6 +1,10 @@
 ![github-cover](https://github.com/thezeeshantariq/thezeeshantariq/assets/27205496/5356d414-a518-43ca-baee-de8bd82b267e)
+<br>
+<br>
 
-### Hi there 👋
+<h2 align=center>👋 Hi! I'm Zeeshan Tariq.</h2>
+<h3 align=center>Sr. Full Stack Developer</h3>
+<br>
 
 <!--
 **thezeeshantariq/thezeeshantariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
