@@ -1,4 +1,7 @@
-![github-cover](https://github.com/thezeeshantariq/thezeeshantariq/assets/27205496/5356d414-a518-43ca-baee-de8bd82b267e)
+<!--![github-cover](https://github.com/thezeeshantariq/thezeeshantariq/assets/27205496/5356d414-a518-43ca-baee-de8bd82b267e)-->
+![github-cover (1)](https://github.com/thezeeshantariq/thezeeshantariq/assets/27205496/0f270880-5162-441b-92f4-1a8cbbc87ff2)
+
+
 <br>
 <br>
 
