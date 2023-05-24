@@ -10,7 +10,14 @@
 <br>
 
 <br>
-<p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br>With backgrounds in law and ecommerce, I appreciate details, meeting deadlines,<br>clear communication, and making businesses' visions come to life.</p>
+<p align="center">
+I'm Software Engineering graduate with 5+ years of experience in web and mobile app development. I specialize in Django, Nest.js, Express.js (backend) and React.js, Next.js, Gatsby.js (frontend), along with Android Studio and React Native for mobile development. Currently, I hold positions as Senior Full Stack Developer and Chief Technical Officer. With strong communication skills, I excel in collaborating with cross-functional teams and simplifying complex technical concepts. Beyond work, I'm passionate about exploring emerging technologies, staying updated with industry trends, and undertaking side projects to expand my skillset. 
+</p>
+
+<br>
+<p align="center">
+  Let's connect at <a href="mailto: thezeeshantariq@gmail.com" target="blank">thezeeshantariq@gmail.com</a> to discuss exciting opportunities.
+  </p>
 <br>
 
 <h2 align="left">Connect with me:</h2>
