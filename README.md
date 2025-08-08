@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-Software Engineering graduate with 5+ years of experience building scalable, AI-driven web and mobile applications. I specialize in JavaScript and Python, using frameworks like Next.js, React.js, NestJS, Django, and ExpressJS. I've engineered intelligent systems by integrating OpenAI’s GPT models, RAG pipelines, LangChain, and vector databases like Pinecone and Redis for smart search, recommendations, and dynamic content generation. I’ve built custom management platforms with Elasticsearch-powered filtering, chatbot interfaces using GPT-4, and AI-assisted document processing. Experienced across PostgreSQL, MongoDB, CosmosDB, Supabase, Firebase, and AWS RDS. Currently leading as a Full Stack Developer & CTO, blending AI innovation with real-world business impact.
+Software Engineering graduate with 6+ years of experience building scalable, AI-driven web and mobile applications. I specialize in JavaScript and Python, using frameworks like Next.js, React.js, NestJS, Django, and ExpressJS. I've engineered intelligent systems by integrating OpenAI’s GPT models, RAG pipelines, LangChain, and vector databases like Pinecone and Redis for smart search, recommendations, and dynamic content generation. I’ve built custom management platforms with Elasticsearch-powered filtering, chatbot interfaces using GPT-4, and AI-assisted document processing. Experienced across PostgreSQL, MongoDB, CosmosDB, Supabase, Firebase, and AWS RDS. Currently leading as a Full Stack Developer & CTO, blending AI innovation with real-world business impact.
 </p>
 
 <br>
