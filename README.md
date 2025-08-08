@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-I'm Software Engineering graduate with 5+ years of experience in web and mobile app development. I specialize in Django, Nest.js, Express.js (backend) and React.js, Next.js, Gatsby.js (frontend), along with Android Studio and React Native for mobile development. Currently, I hold positions as Senior Full Stack Developer and Chief Technical Officer. With strong communication skills, I excel in collaborating with cross-functional teams and simplifying complex technical concepts. Beyond work, I'm passionate about exploring emerging technologies, staying updated with industry trends, and undertaking side projects to expand my skillset. 
+Software Engineering graduate with 5+ years of experience building scalable, AI-driven web and mobile applications. I specialize in JavaScript and Python, using frameworks like Next.js, React.js, NestJS, Django, and ExpressJS. I've engineered intelligent systems by integrating OpenAI’s GPT models, RAG pipelines, LangChain, and vector databases like Pinecone and Redis for smart search, recommendations, and dynamic content generation. I’ve built custom management platforms with Elasticsearch-powered filtering, chatbot interfaces using GPT-4, and AI-assisted document processing. Experienced across PostgreSQL, MongoDB, CosmosDB, Supabase, Firebase, and AWS RDS. Currently leading as a Full Stack Developer & CTO, blending AI innovation with real-world business impact.
 </p>
 
 <br>
